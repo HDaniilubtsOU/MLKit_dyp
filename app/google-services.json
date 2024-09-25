@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252862002010",
+    "project_id": "mlkit-afeed",
+    "storage_bucket": "mlkit-afeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252862002010:android:6bd2a815d37f3bc179b963",
+        "android_client_info": {
+          "package_name": "com.example.mlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFnemwyqyAWN7Taj-V0No1SCCtzvwUZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
